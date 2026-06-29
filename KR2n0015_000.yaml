@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2n0015/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部十四
+  hash: sha256:1b0fee061afb4650a390a33f011206c9ad39b5a17ebb7b4f5e965df0aa8e4e0c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2n0015_WYG_000-1a, image: WYG0681/WYG0681-0395a.png}
+body:
+  text: 法帖釋文目録類二金石之屬提要臣等謹案法帖釋文十卷宋劉次莊撰次莊字中叟長沙人崇寧中嘗官御史曹士冕法帖譜系云臨江戲魚堂帖元祐間劉次莊以家藏淳化閣帖十卷摹刻堂上除去卷尾篆題而增釋文曽敏行獨醒集志曰劉殿院次莊自幼喜書嘗寓於新淦所居民屋忩牖牆壁題寫殆遍臨江郡庫有法帖十卷釋以小楷他法帖之所無也觀二書所記則次莊之作法帖釋文本附注石刻之中未嘗别為一集此本殆後人於戲魚堂帖中鈔合成帙而仍以閣本原第編之者也陳振孫書録解題又稱武岡人嘗傳刻絳州潘氏帖嘉定中汪立中又取劉本分入二十卷中官帖所無者增附之蓋絳帖本閣帖而廣之故立中釋文亦因次莊釋文而廣之與此又别一書矣乾隆四十五年七月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:2b608234c11c1178f993a9434621546d19dca2b2db6d007680e45e063751b05e
+metadata:
+  title: 法帖釋文
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:54:15.984001'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2n0015/KR2n0015_000.txt
+hash: sha256:e663d111a172dd072e6f8b2ed0ebb013b09565d7632efb9289e60862adcb3bcb
